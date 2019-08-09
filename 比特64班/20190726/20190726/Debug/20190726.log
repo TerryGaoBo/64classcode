@@ -1,0 +1,12 @@
+﻿生成启动时间为 2019/7/26 12:26:50。
+     1>项目“E:\C代码\比特64班\20190726\20190726\20190726.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /I"D:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>e:\c代码\比特64班\20190726\20190726\test.c(17): error C2057: 应输入常量表达式
+     1>e:\c代码\比特64班\20190726\20190726\test.c(17): error C2466: 不能分配常量大小为 0 的数组
+     1>已完成生成项目“E:\C代码\比特64班\20190726\20190726\20190726.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.14
